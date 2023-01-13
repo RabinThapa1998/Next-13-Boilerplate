@@ -1,7 +1,9 @@
+import { Button } from "@common/button";
+
 export default function Home() {
   return (
     <main>
-      <h1>HomePage</h1>
+      <Button>click</Button>
     </main>
   );
 }

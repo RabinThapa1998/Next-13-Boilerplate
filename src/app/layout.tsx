@@ -1,4 +1,4 @@
-import "./globals.css";
+import "@app/globals.css";
 
 export default function RootLayout({
   children,
@@ -13,12 +13,7 @@ export default function RootLayout({
       */}
       <head />
 
-      <body>
-        <header>
-          <h1>Header</h1>
-        </header>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
