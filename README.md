@@ -1,6 +1,6 @@
 # Next js 13 Boilerplate with Tailwind CSS , Typescript and Jest
 
-🚀 Next.js Blog Boilerplate is starter code for your blog based on Next.js 12+ framework with Tailwind CSS 3.0. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), Airbnb JavaScript Style Guide, [Jest](https://jestjs.io), [Husky](
+🚀 Next.js Blog Boilerplate is starter code for your blog based on Next.js 12+ framework with Tailwind CSS 3.0. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), Airbnb JavaScript Style Guide[Airbnb](https://github.com/airbnb/javascript/tree/master/react), [Jest](https://jestjs.io), [Husky](
 https://typicode.github.io/husky/#/), [lint-staged](https://github.com/okonet/lint-staged),
 [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
