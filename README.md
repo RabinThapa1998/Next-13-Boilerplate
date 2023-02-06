@@ -10,6 +10,7 @@
 - ✏️ Linter with [ESLint](https://eslint.org)
 - 🛠 Code Formatter with [Prettier](https://prettier.io)
 - 🧪 Unit testing with [Jest](https://jestjs.io)
+- 🧪 Husky for pre-commit hooks and lint-staged for running linters against staged git files
 
 ### Philosophy
 
