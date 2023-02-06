@@ -23,14 +23,6 @@
     "baseUrl": ".",
     "paths": {
       "@app/*": ["./src/app/*"],
-      "@common/*": ["./src/lib/common/*"],
-      "@components/*": ["./src/lib/components/*"],
-      "@config/*": ["./src/lib/config/*"],
-      "@types": ["./src/lib/types/index.ts"],
-      "@hooks/*": ["./src/lib/hooks/*"],
-      "@services/*": ["./src/lib/services/*"],
-      "@store/*": ["./src/lib/store/*"],
-      "@assets/*": ["./src/assets/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
