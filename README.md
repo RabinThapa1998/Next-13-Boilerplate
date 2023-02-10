@@ -5,14 +5,11 @@ https://typicode.github.io/husky/#/), [lint-staged](https://github.com/okonet/li
 [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
 ## Boilerplate Features
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
-- 💅 [PostCSS](https://postcss.org) for processing [Tailwind CSS](https://tailwindcss.com)
+- 🔥 [Expo](https://expo.dev/)
+- 🎨 Integrate with [NativeWind ](https://www.nativewind.dev/)
 - 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
 - ✏️ Linter with [ESLint](https://eslint.org)
-- 🛠 Airbnb React Style Guide [Airbnb](https://github.com/airbnb/javascript/tree/master/react)
 - 🛠 Code Formatter with [Prettier](https://prettier.io)
-- 🧪 Unit testing with [Jest](https://jestjs.io)
 - 🧪 Husky for pre-commit hooks and lint-staged for running linters against staged git files 
 
 ### Philosophy
