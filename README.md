@@ -37,5 +37,5 @@ Licensed under the MIT License, Copyright © 2022
 See [LICENSE](LICENSE) for more information.
 
 
-Made with by [RabinThapa1998](https://github.com/RabinThapa1998 "RabinThapa1998")
-Made by RabinThapa1998 Please give us a star 🌟.
+Made by [RabinThapa1998](https://github.com/RabinThapa1998 "RabinThapa1998")
+Please give us a star 🌟.
